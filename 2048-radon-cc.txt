@@ -1,0 +1,21 @@
+node_modules\flatted\python\flatted.py
+    F 101:0 _wrap - B (6)
+    F 117:0 parse - B (6)
+    F 67:0 _ref - A (5)
+    F 77:0 _relate - A (5)
+    F 86:0 _transform - A (5)
+    F 59:0 _loop - A (3)
+    F 29:0 _array_keys - A (2)
+    F 37:0 _object_keys - A (2)
+    F 141:0 stringify - A (2)
+    C 19:0 _Known - A (2)
+    C 24:0 _String - A (2)
+    F 43:0 _is_array - A (1)
+    F 46:0 _is_object - A (1)
+    F 49:0 _is_string - A (1)
+    F 52:0 _index - A (1)
+    M 20:4 _Known.__init__ - A (1)
+    M 25:4 _String.__init__ - A (1)
+
+17 blocks (classes, functions, methods) analyzed.
+Average complexity: A (2.7058823529411766)
